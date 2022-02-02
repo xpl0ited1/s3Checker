@@ -1,5 +1,4 @@
 # s3Checker
----
 
 Check if a S3 bucket (or a list of buckets) exists and tries to get the bucket ACL to check bucket permissions
 
