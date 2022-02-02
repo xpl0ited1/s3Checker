@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #With <3 by Bastian Muhlhauser aka xpl0ited1 / xpl0ited11
 
 import argparse
